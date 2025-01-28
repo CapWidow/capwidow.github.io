@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dr. Léna Sasal"
   avatar : "/assets/images/lenasaphoto.jpg"
-  bio    : "Machine Learning Researcher with a Ph.D. in Artificial Intelligence from Sorbonne University, Paris, specializing in advanced neural networks, time series forecasting, and spatio-temporal modeling"
+  bio    : "Machine Learning Researcher with a Ph.D. in Artificial Intelligence from Sorbonne University, Paris"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
