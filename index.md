@@ -8,4 +8,4 @@ author_profile: true
 
 I am a Machine Learning Researcher with a Ph.D. in Artificial Intelligence from Sorbonne University, Paris. My work focuses on advanced neural networks, time series forecasting, and spatio-temporal modeling, with an interest in physics-informed approaches and their real-world applications.
 
-<img src="/assets/images/photoPhD.jpg" alt="alt text" width="200"/>
+<img src="/assets/images/photoPhD.jpg" alt="alt text" width="1000"/>
